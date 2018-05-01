@@ -5,10 +5,10 @@
 
 
 ···
-peer-id-prefix=-TR2930-
-user-agent=Transmission/2.93
-peer-agent=Transmission/2.93
+peer-id-prefix=-TR2930- 
+user-agent=Transmission/2.93  
+peer-agent=Transmission/2.93  
 ···
-
+  
 #### bttrackers 列表
 https://github.com/ngosang/trackerslist/
