@@ -11,10 +11,9 @@ peer-agent=Transmission/2.93  
 ------------
 #### uTorrent客户端伪装
 --------------------
-peer-agent=qBittorrent v4.0.3
+peer-agent=qBittorrent v4.0.3     
 peer-id-prefix=-qB4030-
 
----------------------
 
 #### bttrackers 列表
 
