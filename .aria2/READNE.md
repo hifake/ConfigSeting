@@ -2,6 +2,8 @@
 伪装提供以下模板，根据需要采用客户端伪装。
 
 #########Transmission 伪装 版本 1.33.1 
+
+
 ···
 peer-id-prefix=-TR2930-
 user-agent=Transmission/2.93
