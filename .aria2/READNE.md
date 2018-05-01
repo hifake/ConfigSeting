@@ -14,7 +14,7 @@ peer-agent=Transmission/2.93  
 peer-agent=qBittorrent v4.0.3     
 peer-id-prefix=-qB4030-
 
-
+#### pt用户需要禁用 enable-dht bt-enable-lpd enable-peer-exchange  
 #### bttrackers 列表
 
 https://github.com/ngosang/trackerslist/
