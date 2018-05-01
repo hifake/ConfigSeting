@@ -10,6 +10,15 @@ peer-agent=Transmission/2.93  
 
 ------------
 
+--------------------
+peer-agent=qBittorrent v4.0.3
+peer-id-prefix=-qB4030-
+
+---------------------
+peer-agent=uTorrentMac/1870(43796)
+peer-id-prefix=-UM1870-
+
+------------------------
 #### bttrackers 列表
 
 https://github.com/ngosang/trackerslist/
